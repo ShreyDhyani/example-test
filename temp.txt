@@ -1,3 +1,0 @@
-hello
-This file will be changed a lot depending on How a am tackling my scripting skills.
-I am mostly using a shell script .
